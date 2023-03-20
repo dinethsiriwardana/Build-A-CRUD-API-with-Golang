@@ -45,7 +45,10 @@ The `Director` object has the following fields:
 
 
 ### Example requests and responses
-
  Use Postman for  R&R
+ 
+![Screenshot 2023-03-20 at 9 51 47 PM](https://user-images.githubusercontent.com/91774218/226408926-346d5fa3-9102-46a1-a2c4-7a41f6995e46.png | width=100)
+
+
 
 
