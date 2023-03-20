@@ -1,5 +1,13 @@
 # Build a CRUD API with Golang
-This project provides a simple example of building a CRUD (Create, Read, Update, Delete) API using Golang. We will be using Gorilla Mux as a router for our API.
+
+
+This project provides a simple example of building a CRUD (Create, Read, Update, Delete) API using Golang based on a tutorial by `freeCodeCamp.org`. 
+We will be using Gorilla Mux as a router for our API.
+
+
+
+[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/91774218/226343585-b8ac5425-d720-4a7b-9888-64b713980296.jpg)](https://youtu.be/jFfo23yIWac?t=1235)
+
 
 ### Prerequisites
 
