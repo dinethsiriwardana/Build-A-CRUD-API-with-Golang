@@ -9,7 +9,7 @@ This project provides a simple example of building a CRUD (Create, Read, Update,
 
 ### Getting started
 
-1.  Clone the repository using `git clone https://github.com/USERNAME/REPO-NAME.git`
+1.  Clone the repository using `git clone https://github.com/dinethsiriwardana/Build-A-CRUD-API-with-Golang.git`
 2.  Navigate to the project directory and run `go run main.go`
 3.  Open Postman and test the API endpoints listed below.
 
