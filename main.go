@@ -73,7 +73,6 @@ func updateMovie(w http.ResponseWriter, r *http.Request) {
 	params := mux.Vars(r)
 
 	for index, item := range movies {
-
 		if item.ID == params["id"] {
 			movies = append(movies[:index], movies[index+1:]...) // Append All movies expt selected one
 			var movie Movie
@@ -83,7 +82,6 @@ func updateMovie(w http.ResponseWriter, r *http.Request) {
 			json.NewEncoder(w).Encode(movie)
 			return
 		}
-
 	}
 
 }
